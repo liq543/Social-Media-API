@@ -2,6 +2,8 @@
 
 A comprehensive back-end API for a social media platform, built using Node.js, Express, and Mongoose.
 
+[Video Walkthrough Here!](https://www.youtube.com/watch?v=B7i8wQTsrj8)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -28,7 +30,7 @@ A comprehensive back-end API for a social media platform, built using Node.js, E
 1. Clone the repository:
 
 ```
-git clone <repository-link>
+git clone https://github.com/liq543/Social-Media-API.git
 ```
 
 2. Navigate to the project directory:
